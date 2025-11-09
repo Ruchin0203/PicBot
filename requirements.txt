@@ -1,5 +1,5 @@
-flask
-flask-cors
+Flask
+Flask-Cors
 python-dotenv
 requests
 huggingface_hub
@@ -7,3 +7,4 @@ Pillow
 langchain
 langchain-core
 langchain-huggingface
+gunicorn
