@@ -1,0 +1,9 @@
+flask
+flask-cors
+python-dotenv
+requests
+huggingface_hub
+Pillow
+langchain
+langchain-core
+langchain-huggingface
